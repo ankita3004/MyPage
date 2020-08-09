@@ -1,0 +1,95 @@
+#title{
+  background-color:#be1dde;
+  padding:3% ;
+  text-align: center;
+  color:white;
+  font-family: 'Parisienne', cursive;
+  font-weight: 900;
+  color: #d8bbf0;
+
+}
+#likes,#contact{
+  background-color:#be1dde;
+  padding:7% 7%;
+  text-align: center;
+  color:white;
+  font-family: 'Parisienne', cursive;
+  font-weight: 900;
+  color: #d8bbf0;
+}
+.front{
+  height: 210px;
+  width:170px;
+  border-radius: 100%;
+  border: 7px solid #d8bbf0;
+}
+h1{
+  font-size: 4rem;
+
+}
+h2{
+  font-size: 3rem;
+
+}
+#aboutme,#interest{
+    padding:7% 7% ;
+    text-align: center;
+}
+#contact{
+  padding:3% 10%;
+}
+p{
+  font-size: 1.4rem;
+  font-family: 'PT Serif', serif;
+  padding:2% 8%;
+}
+#aboutme h2{
+  font-family: 'Lora', serif;
+  color:#430a6b;
+}
+#interest h2{
+  font-family: 'Lora', serif;
+  color:#430a6b;
+}
+
+#likes h2{
+  font-size: 4rem;
+  padding:0 0 2%;
+}
+.image{
+  height:280px;
+  width:320px;
+  margin: 1rem;
+
+}
+.checked{
+  color: orange;
+}
+.skills{
+  text-align: center;
+  font-family: 'Lora', serif;
+  color:#430a6b;
+  font-size: 2rem;
+  padding:8%#be1dde
+
+}
+h3{
+  padding: 3%;
+  font-size: 4rem;
+}
+.cicon{
+  color: #430a6b;
+  font-size:  2rem;
+  margin: 0.2rem;
+}
+.footer{
+  color: #d8bbf0;
+  font-size:90%;
+}
+
+#aboutme{
+ background-image: url("images/garden.jpeg");
+}
+#interest{
+   background-image: url("images/clouds.jpg");
+}
