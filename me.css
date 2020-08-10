@@ -1,31 +1,31 @@
 #title{
-  background-color:#c73eed;
+  background-color:#d280ed;
   padding:3% ;
   text-align: center;
   color:white;
   font-family: 'Parisienne', cursive;
   font-weight: 900;
-  color: #d8bbf0;
+  color: #560f6e;
 
 }
 #likes{
-  background-color:#c73eed;
+  background-color:#d280ed;
   padding:3% 5%;
   text-align: center;
   color:white;
   font-family: 'Parisienne', cursive;
   font-weight: 900;
-  color: #d8bbf0;
+  color: #560f6e;
 
 }
 #contact{
-  background-color:#c73eed;
+  background-color:#d280ed;
   padding:7% 7%;
   text-align: center;
   color:white;
   font-family: 'Parisienne', cursive;
   font-weight: 900;
-  color: #d8bbf0;
+  color: #560f6e;
 }
 .front{
   height: 210px;
@@ -98,7 +98,7 @@ h3{
 }
 
 #aboutme{
- background-image: url("images/garden.jpeg");
+ background-image: url("images/garden.#d280ed
 }
 #interest{
    background-image: url("images/clouds.jpg");
