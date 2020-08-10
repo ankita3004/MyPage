@@ -1,5 +1,5 @@
 #title{
-  background-color:#be1dde;
+  background-color:#c73eed;
   padding:3% ;
   text-align: center;
   color:white;
@@ -8,8 +8,18 @@
   color: #d8bbf0;
 
 }
-#likes,#contact{
-  background-color:#be1dde;
+#likes{
+  background-color:#c73eed;
+  padding:3% 5%;
+  text-align: center;
+  color:white;
+  font-family: 'Parisienne', cursive;
+  font-weight: 900;
+  color: #d8bbf0;
+
+}
+#contact{
+  background-color:#c73eed;
   padding:7% 7%;
   text-align: center;
   color:white;
@@ -45,11 +55,11 @@ p{
 }
 #aboutme h2{
   font-family: 'Lora', serif;
-  color:#430a6b;
+  color:#42046e;
 }
 #interest h2{
   font-family: 'Lora', serif;
-  color:#430a6b;
+  color:#42046e;
 }
 
 #likes h2{
@@ -68,7 +78,7 @@ p{
 .skills{
   text-align: center;
   font-family: 'Lora', serif;
-  color:#430a6b;
+  color:#42046e;
   font-size: 2rem;
   padding:8%#be1dde
 
@@ -78,7 +88,7 @@ h3{
   font-size: 4rem;
 }
 .cicon{
-  color: #430a6b;
+  color: #42046e;
   font-size:  2rem;
   margin: 0.2rem;
 }
